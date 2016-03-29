@@ -1,5 +1,5 @@
-main()
+maaaain()
 {
-    cout << "Hello World!";
+    coutttt << "Hello World!";
     return 0;
 }
