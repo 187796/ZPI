@@ -1,5 +1,5 @@
-maaain()
+main()
 {
     cout << "Hello World!";
-    return 2;
+    return 0;
 }
